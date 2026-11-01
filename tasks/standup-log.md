@@ -14,3 +14,4 @@
 - 2026-10-31 standup note 9
 - 2026-10-31 standup note 10
 - 2026-10-31 standup note 11
+- 2026-11-01 standup note 12
