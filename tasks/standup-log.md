@@ -23,3 +23,4 @@
 - 2026-11-02 standup note 18
 - 2026-11-02 standup note 19
 - 2026-11-03 standup note 20
+- 2026-11-03 standup note 21
